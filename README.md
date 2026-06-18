@@ -1,13 +1,13 @@
 # ai-tooling-setup-documentation
 Project Overview
-This repository documents the installation, configuration, and verification process for AI-assisted development tools, including Cursor IDE, Claude-based models, Codex-based models, and GitHub.
+- This repository documents the installation, configuration, and verification process for AI-assisted development tools, including Cursor IDE, Claude-based models, Codex-based models, and GitHub.
 
 The objective was to follow the provided setup instructions, verify tool availability, identify discrepancies between instructions and the current software version, and document findings.
 
 Environment:
-Cursor IDE Version: 3.7 (Mac ARM64)
-Platform: macOS
-GitHub: Public Repository
+- Cursor IDE Version: 3.7 (Mac ARM64)
+- Platform: macOS
+- GitHub: Public Repository
 
 
 Tasks Completed
