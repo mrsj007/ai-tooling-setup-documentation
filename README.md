@@ -29,16 +29,15 @@ This project was completed as part of a portfolio-based evaluation process focus
 ```text
 .
 ├── README.md
-├── PROJECT-SUMMARY.md
 └── research/
-    ├── sources.md
-    ├── linkedin-posts/
-    ├── youtube-transcripts/
-    └── other/
-        ├── research-methodology.md
-        ├── patterns.md
-        ├── playbook-draft.md
-        └── final-recommendations.md
+    ├── LinkedIn/
+    ├── YouTube Videos/
+    ├── 1. projects-summary.md
+    ├── 2. sources.md
+    ├── 3. research-methodology.md
+    ├── 4. patterns.md
+    ├── 5. playbook-draft.md
+    └── 6. final-recommendations.md
 ---
 
 # Research Topic
