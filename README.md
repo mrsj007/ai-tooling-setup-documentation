@@ -26,6 +26,7 @@ This project was completed as part of a portfolio-based evaluation process focus
 ---
 
 ## Repository Structure
+```text
 .
 ├── README.md
 ├── PROJECT-SUMMARY.md
