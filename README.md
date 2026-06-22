@@ -1,107 +1,346 @@
-# AI Tooling Setup Documentation
+# B2B SaaS YouTube Content Strategy Research Project
 
-## Project Overview
+## Overview
 
-This repository documents the installation, configuration, and verification process for AI-assisted development tools, including Cursor IDE, Claude-based models, Codex-based models, and GitHub.
+This repository contains a structured research project focused on identifying repeatable YouTube and content marketing strategies for B2B SaaS companies.
 
-The objective was to follow the provided setup instructions, verify tool availability, identify discrepancies between instructions and the current software version, and document findings.
+The objective was to analyze leading practitioners, collect high-signal content from multiple sources, organize research systematically, and synthesize findings into actionable frameworks that could eventually support the development of a practical B2B SaaS content growth playbook.
 
-## Environment
+This project was completed as part of a portfolio-based evaluation process focused on research, synthesis, documentation, and AI-assisted knowledge work.
 
-| Component   | Version              |
-|-------------|----------------------|
-| Cursor IDE  | 3.7 (Mac ARM64)      |
-| Platform    | macOS                |
-| GitHub      | Public Repository    |
+---
 
-## Tasks Completed
+# Research Topic
 
-### 1. Installed Cursor IDE
+## YouTube Content Strategy for B2B SaaS
 
-Successfully installed and launched Cursor IDE.
+I selected this topic because YouTube is increasingly becoming a high-leverage channel for audience building, trust development, education, demand generation, and long-term brand growth within B2B SaaS.
 
-**Status:** ✅ Completed
+Unlike short-term acquisition tactics, YouTube enables companies to build durable audience relationships while creating content assets that continue generating value over time.
 
-### 2. Investigated Claude Code Extension
+The goal of this research was to identify common patterns, frameworks, and strategic principles used by successful content creators, marketers, founders, and operators.
 
-Attempted to locate the "Claude Code" extension using the Cursor Marketplace.
+---
 
-Searches performed:
+# Research Objectives
 
-- Claude Code
-- Claude
-- Anthropic
+The project aimed to answer the following questions:
 
-**Result:** No matching extension was available in the current Cursor version.
+1. What content strategies consistently drive audience growth?
+2. How do successful creators approach content production and distribution?
+3. What role does founder-led content play in growth?
+4. Which content principles appear repeatedly across multiple experts?
+5. How can these insights be translated into a practical B2B SaaS playbook?
 
-**Status:** ❌ Extension not available
+---
 
-### 3. Verified Claude Availability
+# Expert Selection Methodology
 
-Although the extension was unavailable, Claude models were accessible through Cursor's built-in model system.
+Experts were selected based on the following criteria:
 
-Available models included:
+* Demonstrated audience growth
+* Proven track record in B2B marketing or creator-led growth
+* Consistent publishing activity
+* Strong reputation among practitioners
+* Actionable and experience-based insights
+* Evidence of real-world implementation
 
-- Sonnet 4.6
-- Sonnet 4.5
-- Sonnet 4
-- Opus 4.8
-- Opus 4.7
-- Opus 4.6
+Priority was given to practitioners actively building businesses, audiences, or communities rather than purely theoretical commentators.
 
-Additionally, Cursor provides an Anthropic API Key configuration option.
+---
 
-**Conclusion:** Claude functionality appears to be integrated directly into Cursor rather than distributed through a marketplace extension.
+# Experts Researched
 
-**Status:** ✅ Verified
+## 1. Justin Welsh
 
-### 4. Investigated Codex Availability
+Focus:
+Personal branding, audience growth, content systems
 
-Reviewed available models and confirmed access to:
+## 2. Dave Gerhardt
 
-- Codex 5.3
-- Codex 5.2
-- Codex 5.1 Max
-- Codex 5.1 Mini
+Focus:
+B2B SaaS marketing, demand generation
 
-**Conclusion:** Codex functionality is integrated directly into Cursor.
+## 3. Amanda Natividad
 
-**Status:** ✅ Verified
+Focus:
+Audience-first marketing, zero-click content
 
-### 5. GitHub Repository Setup
+## 4. Ross Simmonds
 
-Created a public GitHub repository: [mrsj007/ai-tooling-setup-documentation](https://github.com/mrsj007/ai-tooling-setup-documentation)
+Focus:
+Content distribution, organic growth
 
-**Status:** ✅ Completed
+## 5. Chris Walker
 
-## Challenges Encountered
+Focus:
+Demand generation, customer-centric marketing
 
-### Challenge
+## 6. Rand Fishkin
 
-The setup instructions referenced a "Claude Code" extension and a "Codex" extension.
+Focus:
+Organic growth, search behavior, audience research
 
-### Investigation
+## 7. Alex Hormozi
 
-The current Cursor marketplace did not contain these extensions.
+Focus:
+Content systems, business growth
 
-### Resolution
+## 8. Nathan Barry
 
-Instead of stopping, I investigated Cursor's model configuration settings and confirmed that Claude and Codex capabilities are available directly within the IDE through built-in model integrations.
+Focus:
+Creator-led businesses, audience ownership
 
-## Key Learnings
+## 9. Jay Clouse
 
-- Cursor's architecture evolves rapidly.
-- Tool availability can differ from written instructions.
-- Documentation should reflect observed behaviour rather than assumptions.
-- Research and verification are critical when working with AI development environments.
+Focus:
+Audience development, creator ecosystems
 
-## Final Outcome
+## 10. Paddy Galloway
 
-Successfully installed Cursor IDE, verified Claude and Codex model availability, created a public GitHub repository, and documented the complete process.
+Focus:
+YouTube growth strategy and audience psychology
 
-## Repository
+---
 
-```bash
-git clone https://github.com/mrsj007/ai-tooling-setup-documentation.git
-cd ai-tooling-setup-documentation
-```
+# Research Scope
+
+The research repository contains:
+
+## LinkedIn Research
+
+* 10 experts analyzed
+* 3 LinkedIn posts collected per expert
+* 30 total posts reviewed and summarized
+
+Location:
+
+research/linkedin-posts/
+
+---
+
+## YouTube Research
+
+* 2 YouTube videos analyzed per expert
+* 20 videos reviewed
+* Transcript-based analysis performed
+
+Location:
+
+research/youtube-transcripts/
+
+---
+
+## Additional Research Files
+
+### Sources Database
+
+Comprehensive expert directory containing:
+
+* Selection rationale
+* Areas of expertise
+* Research assets collected
+* Core themes
+
+Location:
+
+research/sources.md
+
+---
+
+### Research Methodology
+
+Documents:
+
+* Collection process
+* Selection criteria
+* Analysis approach
+* Synthesis framework
+
+Location:
+
+research/other/research-methodology.md
+
+---
+
+### Pattern Analysis
+
+Cross-expert comparison identifying recurring themes and strategic principles.
+
+Location:
+
+research/other/patterns.md
+
+---
+
+### Playbook Draft
+
+Initial framework derived from research findings.
+
+Location:
+
+research/other/playbook-draft.md
+
+---
+
+# Research Process
+
+The project followed the following workflow:
+
+## Phase 1: Expert Discovery
+
+Identified practitioners with demonstrated success in:
+
+* Content marketing
+* Audience building
+* Demand generation
+* YouTube growth
+* Creator-led business development
+
+---
+
+## Phase 2: Content Collection
+
+Collected:
+
+* LinkedIn posts
+* YouTube videos
+* Public educational content
+* Additional supporting materials
+
+Content was selected based on recency, relevance, and practical value.
+
+---
+
+## Phase 3: Content Analysis
+
+Each source was reviewed to identify:
+
+* Core thesis
+* Strategic frameworks
+* Tactical recommendations
+* Recurring themes
+* Audience assumptions
+
+---
+
+## Phase 4: Cross-Expert Synthesis
+
+Insights were compared across experts to identify:
+
+* Areas of agreement
+* Repeatable strategies
+* Emerging patterns
+* High-confidence recommendations
+
+---
+
+## Phase 5: Playbook Development
+
+Research findings were translated into:
+
+* Strategic principles
+* Practical lessons
+* Repeatable frameworks
+* Growth recommendations
+
+---
+
+# Key Findings
+
+Several themes consistently appeared across the majority of experts studied.
+
+## Audience Before Product
+
+The most effective content focuses on audience needs before product promotion.
+
+---
+
+## Founder-Led Content Wins
+
+People trust people more than brands.
+
+Founder-led content consistently generated stronger engagement and credibility signals.
+
+---
+
+## Distribution Is Undervalued
+
+Many experts emphasized that distribution often creates more leverage than producing additional content.
+
+---
+
+## Consistency Beats Perfection
+
+Long-term publishing discipline outperformed sporadic high-effort content.
+
+---
+
+## Original Insights Matter
+
+The strongest content originated from:
+
+* Experience
+* Customer conversations
+* Experiments
+* Proprietary knowledge
+
+rather than recycled information.
+
+---
+
+## Trust Compounds
+
+Trust emerged as a recurring competitive advantage across all experts and platforms.
+
+---
+
+# Deliverables
+
+This repository includes:
+
+✅ Expert Database
+
+✅ LinkedIn Research Collection
+
+✅ YouTube Research Collection
+
+✅ Research Methodology
+
+✅ Cross-Expert Pattern Analysis
+
+✅ Preliminary B2B SaaS Content Playbook
+
+---
+
+# AI-Assisted Workflow
+
+AI tools were used throughout the project to support:
+
+* Research organization
+* Information extraction
+* Content summarization
+* Pattern identification
+* Documentation
+
+The focus remained on human judgment, synthesis, and interpretation rather than automated content generation alone.
+
+---
+
+# Future Work
+
+Potential next steps include:
+
+1. Expanding the expert database.
+2. Creating a complete B2B SaaS YouTube Growth Playbook.
+3. Building channel-specific frameworks.
+4. Developing content operating procedures.
+5. Creating repeatable content research workflows.
+
+---
+
+# Repository Status
+
+Project completed successfully.
+
+Research assets collected, organized, analyzed, and synthesized into actionable findings intended to support future B2B SaaS content strategy development.
