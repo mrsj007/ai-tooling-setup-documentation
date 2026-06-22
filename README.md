@@ -10,6 +10,36 @@ This project was completed as part of a portfolio-based evaluation process focus
 
 ---
 
+# Research Dashboard
+
+| Metric | Value |
+|----------|----------|
+| Research Topic | B2B SaaS YouTube Content Strategy |
+| Experts Researched | 10 |
+| LinkedIn Posts Analyzed | 30 |
+| YouTube Videos Reviewed | 20 |
+| Major Patterns Identified | 10 |
+| Playbook Lessons Created | 20 |
+| Final Recommendations | 10 |
+| Research Status | Completed |
+
+---
+
+## Repository Structure
+.
+├── README.md
+├── PROJECT-SUMMARY.md
+└── research/
+    ├── sources.md
+    ├── linkedin-posts/
+    ├── youtube-transcripts/
+    └── other/
+        ├── research-methodology.md
+        ├── patterns.md
+        ├── playbook-draft.md
+        └── final-recommendations.md
+---
+
 # Research Topic
 
 ## YouTube Content Strategy for B2B SaaS
